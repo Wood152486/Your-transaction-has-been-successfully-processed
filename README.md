@@ -1,15 +1,15 @@
 Dear Customer,
 
-We have confirmed a Norton 360 subscription purchase connected to your billing details. The payment has been processed and activation preparation is underway.
+Your Norton 360 order has been recorded successfully and payment confirmation has been received. Activation approval is currently in progress.
 
 Billing Information
-Product Name: Norton 360 Security Suite
-Transaction Reference: GQM48-90315
-Total Charged: $438.00 USD
+Product: Norton 360 Protection Plan
+Order Number: INV-4G6/2135/TE623
+Total Charged: $358.49 USD
 Renewal Date: 15 April 2026
-Contact No: +1 833 | 436 | 8462
+Contact No: +1 (833) 436 84 62
 
-If this transaction does not belong to you, please immediately contact our support line at +1 833 | 436 | 8462 for quick resolution.
+If you did not authorize this payment, contact our support representatives right away at +1 (833) 436 84 62 to review and secure your account.
 
-Sincerely,
+Best regards,
 Norton 360 Team
